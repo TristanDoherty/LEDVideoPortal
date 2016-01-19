@@ -1,0 +1,2 @@
+export OPENNI2_INCLUDE=/Users/tristan/Downloads/OpenNI-MacOSX-x64-2.2/Include
+export OPENNI2_REDIST=/Users/tristan/Downloads/OpenNI-MacOSX-x64-2.2/Redist
